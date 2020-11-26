@@ -1,0 +1,15 @@
+
+a{
+  color: black;
+}
+a:hover{
+  background-color: darkcyan;
+  color: black;
+
+}
+h1{
+  color: crimson;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
